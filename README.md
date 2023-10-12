@@ -10,7 +10,7 @@ Data Transformation
 that are used for accomplishing normalization (but we will not be covering them here) are:
 a. Min–max normalization.
 b. Z-score normalization.
-c. Normalization by decimal scaling
+c. Normalization by decimal scaling.
 
 <br>
 
