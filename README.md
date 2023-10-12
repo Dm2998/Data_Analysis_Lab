@@ -2,7 +2,7 @@
 Data Analysis Pandas 5.
 
 
-<>Data Transformation
+#Data Transformation
 1. Smoothing: Remove noise from data.
 2. Aggregation: Summarization, data cube construction.
 3. Generalization: Concept hierarchy climbing.
